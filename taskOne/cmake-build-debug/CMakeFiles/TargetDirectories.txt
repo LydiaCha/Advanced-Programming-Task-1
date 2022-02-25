@@ -1,0 +1,3 @@
+/Users/lcu23/CLionProjects/taskOne/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/lcu23/CLionProjects/taskOne/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/lcu23/CLionProjects/taskOne/cmake-build-debug/CMakeFiles/taskOne.dir
